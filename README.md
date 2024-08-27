@@ -1,6 +1,6 @@
 # Pantheon
 <p align="center">
-  <img src="/imgs/panth_logo.png">
+  <img src="/imgs/akoma_logo.png">
 </p>
 
 ## About Pantheon 
@@ -10,8 +10,8 @@ Pantheon is a GUI application that allows users to display information regarding
 Pantheon allows users to execute an <strong>API</strong> crawler. There was original functionality without the use of any API's (like Insecam), but Google TOS kept getting in the way of the original scraping mechanism. 
 
 ## Installation 
-1. ``git clone https://github.com/josh0xA/Pantheon.git``
-2. ``cd Pantheon``
+1. ``git clone https://github.com/herkoalabi/Livewebcam.git``
+2. ``cd Livewebcam``
 3. ``pip3 install -r requirements.txt``<br/>
 Execution: ``python3 pantheon.py``
 - Note: I will later add a GUI installer to make it fully indepenent of a CLI
@@ -39,7 +39,7 @@ Execution: ``python3 pantheon.py``
 
 ## Usage 
 <p align="center">
-  <img src="/imgs/pantheon_second_example.PNG">
+  <img src="/imgs/akoma_second_example.PNG">
 </p>
 
 (Enter) on a selected IP:Port to establish a Pantheon webview of the camera. (Use this at your own risk) <br/>
